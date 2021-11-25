@@ -8,4 +8,4 @@
 
       Why use C then if it's so dangerous? Because C gives you power over the false reality of abstraction and liberates you from stupidity."
 
-  -Zed Shaw
+      -Zed Shaw
